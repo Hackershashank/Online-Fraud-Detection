@@ -18,8 +18,6 @@ The dataset contains online transaction records with fields such as:
   - `1` → Fraudulent transaction  
   - `0` → Legitimate transaction  
 
-🗂 Source: Kaggle *(Insert working dataset link if needed)*
-
 ---
 
 ## 🔍 Exploratory Data Analysis (EDA)
