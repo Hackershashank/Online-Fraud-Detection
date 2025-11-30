@@ -119,9 +119,9 @@ print("Prediction:", "Fraud" if prediction == 1 else "Not Fraud")
 ```
 
 🚀 Future Improvements
-Try SMOTE or ADASYN instead of undersampling
-Train deep learning models (LSTM, Neural Networks)
-Deploy model with a REST API or Streamlit UI
+1. Try SMOTE or ADASYN instead of undersampling
+2. Train deep learning models (LSTM, Neural Networks)
+3. Deploy model with a REST API or Streamlit UI
 
 📄 License
 This project is distributed under the MIT License.
